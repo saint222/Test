@@ -18,6 +18,7 @@ namespace ConsoleApp24
                 {
                     Console.WriteLine(names [i]);
                 }
+                Console.WriteLine("Hello Git");
                 Console.ReadLine();
             }
         }
